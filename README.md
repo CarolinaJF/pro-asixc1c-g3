@@ -11,7 +11,7 @@
 
 -
 - [Diseño e implementación de la base de datos](src/pro_4/4.md)
-- [Sostenibilidad](src/pro_5/5.md)
+- [Sostenibilidad y eficiencia energética](src/pro_5/5.md)
 
 ## Índice
 
