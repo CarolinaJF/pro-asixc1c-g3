@@ -18,9 +18,22 @@
 
 ---
 
+<iframe src="[https://share.synthesia.io/58c85291-c89f-47d3-8e40-0926f3196d0a/preview" 
+        width="640" height="360" allow="autoplay" allowfullscreen></iframe>
 
-En un entorno donde la digitalización impulsa el éxito empresarial, los Centros de Procesamiento de Datos (CPD) son el corazón operativo de compañías como InnovateTech, una empresa tecnológica española líder en distribución de contenido multimedia (audio y vídeo bajo demanda, AOD y VOD).
+# Objetivos del Proyecto de Innovate Tech
 
-Actualmente, los servicios de InnovateTech se ofrecen exclusivamente a través de su plataforma web y opera únicamente en el mercado europeo, donde se ha consolidado con más de 3 millones de usuarios registrados.
+InnovateTech es una empresa tecnológica con diferentes sedes en España, dedicada a la distribución de contenido multimedia en formatos de audio y vídeo bajo demanda (AOD y VOD). Su modelo de negocio se posiciona como un punto intermedio entre plataformas líderes como Spotify y Netflix. 
 
-Como parte de su compromiso con la innovación tecnológica y la sostenibilidad, se dirigieron a nosotros con el objetivo de diseñar e implantar una arquitectura de Centro de Procesamiento de Datos (CPD) en la nube, adaptado a nuestras necesidades actuales y futuras. Buscaban una solución integral que integrará el servicio web de la empresa y la transmisión de audio y vídeo, que fuera eficaz en términos de rendimiento, seguridad y eficiencia energética.
+Durante momentos de alta demanda, como estrenos, eventos en directo o lanzamientos especiales, InnovateTech alcanza picos de entre 500.000 y 1.000.000 usuarios concurrentes, lo que la establece como uno de los principales actores regionales en el sector multimedia. Aunque no compite al nivel de los gigantes globales, su alcance y rendimiento a escala continental son significativos, ofreciendo servicios exclusivamente a usuarios geolocalizados en Europa.  
+
+Además, se compromete con el desarrollo responsable y sostenible, tal como se refleja en su apuesta por soluciones que cumplan con los Objetivos de Desarrollo Sostenible (ODS) de la Agenda 2030. Concretamente, quieren contribuir activamente a los ODS 7 (Energía asequible y no contaminante), ODS 9 (Industria, innovación e infraestructura), ODS 12 (Producción y consumo responsables), ODS 13 (Acción por el clima) y ODS 16 (Paz, justicia e instituciones sólidas).
+
+## Objetivos del proyecto
+
+Diseñar una infraestructura tecnológica de CPD que garantice eficiencia operativa, seguridad de datos y sostenibilidad ambiental, alineada con los requerimientos del negocio.  
+El proyecto se estructura en torno a metas claras que aseguran el cumplimiento de las necesidades operativas y estratégicas de InnovateTech:
+
+- Diseñar una arquitectura híbrida robusta que integre CPDs físicos Tier 2 en España con servicios AWS, garantizando alta disponibilidad y escalabilidad para soportar picos de hasta 1 millón de usuarios concurrentes en streaming de audio y video bajo demanda. Asimismo, esta infraestructura alojará servicios críticos locales (bases de datos y monitorización).
+- Garantizar la protección de los datos de más de 3 millones de usuarios mediante el cumplimiento de normativas internacionales implementando almacenamiento local, replicación segura y medidas de seguridad física avanzadas, como controles biométricos y videovigilancia.
+- Optimizar el uso de recursos energéticos mediante tecnologías como free cooling, geotermia inversa y energía renovable (70-80%), calculando la huella ecológica con herramientas como el AWS Carbon Footprint Calculator para minimizar el impacto ambiental.
