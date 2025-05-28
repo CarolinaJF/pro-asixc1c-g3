@@ -20,6 +20,8 @@
 
 <div style="position: relative; overflow: hidden; aspect-ratio: 1920/1080"><iframe src="https://share.synthesia.io/embeds/videos/58c85291-c89f-47d3-8e40-0926f3196d0a" loading="lazy" title="Synthesia video player - Revolutionizing InnovateTech: Building a Sustainable Cloud Data Center" allowfullscreen allow="encrypted-media; fullscreen;" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0; overflow:hidden;"></iframe></div>
 
+
+
 InnovateTech es una empresa tecnológica con diferentes sedes en España, dedicada a la distribución de contenido multimedia en formatos de audio y vídeo bajo demanda (AOD y VOD). Su modelo de negocio se posiciona como un punto intermedio entre plataformas líderes como Spotify y Netflix. 
 
 Durante momentos de alta demanda, como estrenos, eventos en directo o lanzamientos especiales, InnovateTech alcanza picos de entre 500.000 y 1.000.000 usuarios concurrentes, lo que la establece como uno de los principales actores regionales en el sector multimedia. Aunque no compite al nivel de los gigantes globales, su alcance y rendimiento a escala continental son significativos, ofreciendo servicios exclusivamente a usuarios geolocalizados en Europa.  
