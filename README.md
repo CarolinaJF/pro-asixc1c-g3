@@ -1,8 +1,14 @@
 ![i1](/src/pro_1/img1/portada.png)
 
+# **C**arolina **U**nai **R**ichard **E**rick
 
-# Somos THE CURE PROJECT
-## **C**arolina **U**nai **R**ichard **E**rick
+<span style="color: blue;">
+  <span style="color: pink;">C</span>arolina
+  <span style="color: pink;">U</span>nai
+  <span style="color: pink;">R</span>ichard
+  <span style="color: pink;">E</span>rick
+</span>
+
 
 ---
 
