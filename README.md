@@ -17,7 +17,7 @@
 
 <div style="position: relative; overflow: hidden; aspect-ratio: 1920/1080"><iframe src="https://share.synthesia.io/embeds/videos/58c85291-c89f-47d3-8e40-0926f3196d0a" loading="lazy" title="Synthesia video player - Revolutionizing InnovateTech: Building a Sustainable Cloud Data Center" allowfullscreen allow="encrypted-media; fullscreen;" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0; overflow:hidden;"></iframe></div>
 
-
+---
 
 InnovateTech es una empresa tecnológica con diferentes sedes en España, dedicada a la distribución de contenido multimedia en formatos de audio y vídeo bajo demanda (AOD y VOD). Su modelo de negocio se posiciona como un punto intermedio entre plataformas líderes como Spotify y Netflix. 
 
@@ -37,8 +37,7 @@ El proyecto se estructura en torno a metas claras que aseguran el cumplimiento d
 ---
 
 > #### Proyecto Transversal ASIXc -  Administración de Sistemas Informáticos en Red - ASIXc1C - G3
+> © **2025 - Todos los derechos reservados**  
+> Este manual ha sido desarrollado para fines educativos y profesionales, respetando los principios de accesibilidad y claridad.
 
----
 
-© **2025 - Todos los derechos reservados**  
-Este manual ha sido desarrollado para fines educativos y profesionales, respetando los principios de accesibilidad y claridad.
