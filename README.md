@@ -18,8 +18,7 @@
 
 ---
 
-<iframe src="[https://share.synthesia.io/58c85291-c89f-47d3-8e40-0926f3196d0a/preview" 
-        width="640" height="360" allow="autoplay" allowfullscreen></iframe>
+
 
 <iframe src="[https://share.synthesia.io/58c85291-c89f-47d3-8e40-0926f3196d0a" 
         width="640" height="360" allow="autoplay" allowfullscreen></iframe>
