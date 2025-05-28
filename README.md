@@ -1,14 +1,11 @@
 ![i1](/src/pro_1/img1/portada.png)
 
-# **C**arolina **U**nai **R**ichard **E**rick
-
-<span style="color: blue;">
-  <span style="color: pink;">C</span>arolina
-  <span style="color: pink;">U</span>nai
-  <span style="color: pink;">R</span>ichard
-  <span style="color: pink;">E</span>rick
+<span style="color: green; font-size: 40px;">
+  <span style="color: red; font-size: 48px;">C</span>arolina
+  <span style="color: red; font-size: 48px;">U</span>nai
+  <span style="color: red; font-size: 48px;">R</span>ichard
+  <span style="color: red; font-size: 48px;">E</span>rick
 </span>
-
 
 ---
 
