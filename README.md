@@ -1,8 +1,5 @@
-# Proyecto Transversal ASIXc
-## Administración de Sistemas Informáticos en Red
-**Grupo:** ASIXc1C - G3  
-**Curso:** 2024/2025  
-**Profesorado:** Equipo docente ASIXc1C  
+# Somos THE CURE PROJECT
+## **C**arolina **U**nai **R**ichard **E**rick
 
 ---
 
@@ -36,3 +33,11 @@ El proyecto se estructura en torno a metas claras que aseguran el cumplimiento d
 - Diseñar una arquitectura híbrida robusta que integre CPDs físicos Tier 2 en España con servicios AWS, garantizando alta disponibilidad y escalabilidad para soportar picos de hasta 1 millón de usuarios concurrentes en streaming de audio y video bajo demanda. Asimismo, esta infraestructura alojará servicios críticos locales (bases de datos y monitorización).
 - Garantizar la protección de los datos de más de 3 millones de usuarios mediante el cumplimiento de normativas internacionales implementando almacenamiento local, replicación segura y medidas de seguridad física avanzadas, como controles biométricos y videovigilancia.
 - Optimizar el uso de recursos energéticos mediante tecnologías como free cooling, geotermia inversa y energía renovable (70-80%), calculando la huella ecológica con herramientas como el AWS Carbon Footprint Calculator para minimizar el impacto ambiental.
+
+---
+
+> #### Proyecto Transversal ASIXc -  Administración de Sistemas Informáticos en Red
+**Grupo:** ASIXc1C - G3
+
+© **2025 - Todos los derechos reservados**  
+Este manual ha sido desarrollado para fines educativos y profesionales, respetando los principios de accesibilidad y claridad.
