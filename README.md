@@ -1,9 +1,11 @@
 ![i1](/src/pro_1/img1/portada.png)
 
 ---
+
 <p align="center">
   <img src="/src/pro_1/img1/portada.png" width="800" alt="i1" />
 </p>
+
 ---
 
 
