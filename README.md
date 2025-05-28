@@ -1,5 +1,16 @@
 ![i1](/src/pro_1/img1/portada.png)
 
+---
+<div style="text-align: center;">
+  <img src="/src/pro_1/img1/portada.png" style="width: 100%; max-width: 800px;" alt="i1" />
+</div>
+----
+
+<div style="text-align: center;">
+  <img src="/src/pro_1/img1/portada.png" alt="i1" />
+</div>
+
+
 <span style="color: green; font-size: 40px;">
   <span style="color: red; font-size: 48px;">C</span>arolina
   <span style="color: red; font-size: 48px;">U</span>nai
