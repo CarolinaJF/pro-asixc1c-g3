@@ -30,7 +30,7 @@ Además, se compromete con el desarrollo responsable y sostenible, tal como se r
 
 ## Objetivos del proyecto
 
-Diseñar una infraestructura tecnológica de CPD que garantice eficiencia operativa, seguridad de datos y sostenibilidad ambiental, alineada con los requerimientos del negocio.  
+Suministrar una infraestructura tecnológica de CPD que garantice eficiencia operativa, seguridad de datos y sostenibilidad ambiental, alineada con los requerimientos de nuestro cliente.  
 El proyecto se estructura en torno a metas claras que aseguran el cumplimiento de las necesidades operativas y estratégicas de InnovateTech:
 
 - Diseñar una arquitectura híbrida robusta que integre CPDs físicos Tier 2 en España con servicios AWS, garantizando alta disponibilidad y escalabilidad para soportar picos de hasta 1 millón de usuarios concurrentes en streaming de audio y video bajo demanda. Asimismo, esta infraestructura alojará servicios críticos locales (bases de datos y monitorización).
