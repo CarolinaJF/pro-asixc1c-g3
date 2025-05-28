@@ -1,4 +1,4 @@
-![i1](/src/img1/portada.png)
+![i1](/src/pro_1/img1/portada.png)
 
 
 # Somos THE CURE PROJECT
