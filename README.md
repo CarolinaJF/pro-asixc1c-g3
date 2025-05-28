@@ -1,7 +1,3 @@
-![i1](/src/pro_1/img1/portada.png)
-
----
-
 <p align="center">
   <img src="src/pro_1/img1/portada.png" width="800" alt="i1" />
 </p>
@@ -9,12 +5,14 @@
 ---
 
 
-<span style="color: green; font-size: 40px;">
-  <span style="color: red; font-size: 48px;">C</span>arolina
-  <span style="color: red; font-size: 48px;">U</span>nai
-  <span style="color: red; font-size: 48px;">R</span>ichard
-  <span style="color: red; font-size: 48px;">E</span>rick
-</span>
+<div style="text-align: center;">
+  <span style="color: green; font-size: 40px;">
+    <span style="color: red; font-size: 48px;">C</span>arolina
+    <span style="color: red; font-size: 48px;">U</span>nai
+    <span style="color: red; font-size: 48px;">R</span>ichard
+    <span style="color: red; font-size: 48px;">E</span>rick
+  </span>
+</div>
 
 ---
 
