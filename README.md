@@ -1,3 +1,6 @@
+![i1](/src/img1/portada.png)
+
+
 # Somos THE CURE PROJECT
 ## **C**arolina **U**nai **R**ichard **E**rick
 
