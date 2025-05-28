@@ -36,8 +36,9 @@ El proyecto se estructura en torno a metas claras que aseguran el cumplimiento d
 
 ---
 
-> #### Proyecto Transversal ASIXc -  Administración de Sistemas Informáticos en Red
-**Grupo:** ASIXc1C - G3
+> #### Proyecto Transversal ASIXc -  Administración de Sistemas Informáticos en Red - ASIXc1C - G3
+
+---
 
 © **2025 - Todos los derechos reservados**  
 Este manual ha sido desarrollado para fines educativos y profesionales, respetando los principios de accesibilidad y claridad.
