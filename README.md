@@ -21,6 +21,8 @@
 <iframe src="[https://share.synthesia.io/58c85291-c89f-47d3-8e40-0926f3196d0a/preview" 
         width="640" height="360" allow="autoplay" allowfullscreen></iframe>
 
+<div style="position: relative; overflow: hidden; aspect-ratio: 1920/1080"><iframe src="https://share.synthesia.io/embeds/videos/58c85291-c89f-47d3-8e40-0926f3196d0a" loading="lazy" title="Synthesia video player - Revolutionizing InnovateTech: Building a Sustainable Cloud Data Center" allowfullscreen allow="encrypted-media; fullscreen;" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0; overflow:hidden;"></iframe></div>
+
 # Objetivos del Proyecto de Innovate Tech
 
 InnovateTech es una empresa tecnológica con diferentes sedes en España, dedicada a la distribución de contenido multimedia en formatos de audio y vídeo bajo demanda (AOD y VOD). Su modelo de negocio se posiciona como un punto intermedio entre plataformas líderes como Spotify y Netflix. 
