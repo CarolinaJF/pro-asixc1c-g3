@@ -3,7 +3,7 @@
 
 ---
 
-# Índice
+# Contenidos
 
 - [Propuesta de CPD sostenible para InnovateTech](src/pro_1/1.md)
 - [Implementación de los servicios de audio y vídeo](src/pro_2/2.md)
